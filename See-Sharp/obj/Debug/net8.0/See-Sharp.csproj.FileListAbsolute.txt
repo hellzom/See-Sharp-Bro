@@ -1,0 +1,15 @@
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\bin\Debug\net8.0\See-Sharp.exe
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\bin\Debug\net8.0\See-Sharp.deps.json
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\bin\Debug\net8.0\See-Sharp.runtimeconfig.json
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\bin\Debug\net8.0\See-Sharp.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\bin\Debug\net8.0\See-Sharp.pdb
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.AssemblyInfoInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.AssemblyInfo.cs
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.sourcelink.json
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\refint\See-Sharp.dll
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.pdb
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\See-Sharp.genruntimeconfig.cache
+C:\Users\rishi\OneDrive\Coding-Files\See-Sharp-Bro\See-Sharp\obj\Debug\net8.0\ref\See-Sharp.dll
